@@ -1,13 +1,3 @@
----
-title: "Data Wrangling and Functions in R"
-author: "Yenus Ibrahim Ayalew"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: false
-    theme: cosmo
----
-
 # Data Wrangling and Functions in R
 
 This is my **second R project**, following my basic beginner project. In this project, I worked with **real-world datasets**, created **custom functions**, performed **data wrangling**, and visualized results.  
